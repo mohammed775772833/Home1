@@ -1,11 +1,11 @@
-html
+بالطبع! سأقوم بتعديل html
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Service Details - رؤية للتسويق والاستشارات</title>
+  <title>Service Details - MTC YEMEN</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -35,8 +35,8 @@ html
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
       <a href="index.html" class="logo d-flex align-items-center me-auto me-lg-0">
-        <img src="assets/img/new-logo.png" alt="شعار رؤية للتسويق والاستشارات"> <!-- استبدل "new-logo.png" بمسار الشعار الجديد -->
-        <h1 class="sitename">رؤية للتسويق والاستشارات</h1>
+        <img src="assets/img/new-logo.png" alt="شعار MTC YEMEN"> <!-- استبدل "new-logo.png" بمسار الشعار الجديد -->
+        <h1 class="sitename">MTC YEMEN</h1>
         <span>.</span>
       </a>
 
@@ -82,7 +82,7 @@ html
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
               <h1>تفاصيل الخدمة</h1>
-              <p class="mb-0">"رؤية للتسويق والاستشارات" هي شركة متخصصة في تقديم حلول تسويقية استراتيجية واستشارات شاملة للشركات بمختلف أحجامها. نحن نساعد عملائنا على تحقيق أهدافهم التجارية من خلال تطوير استراتيجيات تسويقية فعالة تتناسب مع احتياجاتهم الفريدة.</p>
+              <p class="mb-0">"MTC YEMEN" هي علامة تجارية يمنية متخصصة في مقاعد السيارات، تقدم حلولًا مبتكرة لتلبية احتياجات عملائنا.</p>
             </div>
           </div>
         </div>
@@ -108,10 +108,10 @@ html
             <div class="service-box">
               <h4>قائمة الخدمات</h4>
               <div class="services-list">
-                <a href="#" class="active"><i class="bi bi-arrow-right-circle"></i><span>تصميم المواقع</span></a>
+                <a href="#" class="active"><i class="bi bi-arrow-right-circle"></i><span>تصميم مقاعد السيارات</span></a>
                 <a href="#"><i class="bi bi-arrow-right-circle"></i><span>إدارة المنتجات</span></a>
                 <a href="#"><i class="bi bi-arrow-right-circle"></i><span>التسويق</span></a>
-                <a href="#"><i class="bi bi-arrow-right-circle"></i><span>التصميم الجرافيكي</span></a>
+                <a href="#"><i class="bi bi-arrow-right-circle"></i><span>خدمات ما بعد البيع</span></a>
               </div>
             </div>
 
@@ -134,17 +134,17 @@ html
 
           <div class="col-lg-8 ps-lg-5" data-aos="fade-up" data-aos-delay="200">
             <img src="assets/img/services.jpg" alt="" class="img-fluid services-img">
-            <h3>تفاصيل الخدمة: تسويق واستشارات تسويقية للشركات والمؤسسات التجارية</h3>
+            <h3>تفاصيل الخدمة: مقاعد سيارات مبتكرة</h3>
             <p>
-              نحن نقدم خدمات تسويقية واستشارات شاملة تساعد الشركات في تحقيق أهدافها التجارية.
+              MTC YEMEN تقدم مقاعد سيارات عالية الجودة تجمع بين التصميم العصري والراحة الفائقة.
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> <span>استراتيجيات تسويقية مخصصة.</span></li>
-              <li><i class="bi bi-check-circle"></i> <span>تحليل السوق والمنافسين.</span></li>
-              <li><i class="bi bi-check-circle"></i> <span>التسويق الرقمي والتقليدي.</span></li>
+              <li><i class="bi bi-check-circle"></i> <span>استراتيجيات تصميم مخصصة.</span></li>
+              <li><i class="bi bi-check-circle"></i> <span>تحليل احتياجات العملاء.</span></li>
+              <li><i class="bi bi-check-circle"></i> <span>خدمات ما بعد البيع الممتازة.</span></li>
             </ul>
             <p>
-              نحن نعمل على تطوير حلول تسويقية تتناسب مع احتياجات كل عميل.
+              نحن نعمل على تطوير حلول مقاعد سيارات تتناسب مع احتياجات كل عميل.
             </p>
           </div>
 
@@ -152,6 +152,21 @@ html
 
       </div>
 
+    </section>
+
+    <section id="vision-mission" class="vision-mission section">
+      <div class="container">
+        <h2>رؤيتنا ورسالتنا</h2>
+        <p><strong>الرؤية:</strong> أن نكون العلامة التجارية الرائدة في اليمن في مجال مقاعد السيارات، مع تقديم منتجات عالية الجودة تلبي احتياجات عملائنا وتساهم في تعزيز راحة وأمان القيادة.</p>
+        <p><strong>الرسالة:</strong> تسعى MTC YEMEN إلى توفير مقاعد سيارات مبتكرة ومريحة تجمع بين التصميم العصري والجودة الفائقة. نحن نلتزم بتقديم منتجات تلبي توقعات عملائنا من خلال استخدام أفضل المواد وأحدث التقنيات، مع التركيز على الأمان والراحة في كل منتج نقدمها.</p>
+        <p><strong>القيم:</strong></p>
+        <ul>
+          <li>الجودة: نؤمن بتقديم منتجات ذات جودة عالية تضمن أداءً ممتازًا وراحة لا مثيل لها.</li>
+          <li>الابتكار: نعمل باستمرار على تطوير تصميمات جديدة وتحسين المنتجات لتلبية احتياجات السوق.</li>
+          <li>الراحة: نضع راحة عملائنا في المقام الأول، مما يجعل كل تجربة قيادة ممتعة وآمنة.</li>
+          <li>الاحترافية: نتعامل مع عملائنا بشفافية، ونقدم لهم الدعم اللازم لضمان رضاهم الكامل.</li>
+        </ul>
+      </div>
     </section>
 
   </main>
@@ -163,7 +178,7 @@ html
         <div class="row gy-4">
           <div class="col-lg-4 col-md-6 footer-about">
             <a href="index.html" class="logo d-flex align-items-center">
-              <span class="sitename">رؤية للتسويق والاستشارات</span>
+              <span class="sitename">MTC YEMEN</span>
             </a>
             <div class="footer-contact pt-3">
               <p>A108 Adam Street</p>
@@ -193,11 +208,11 @@ html
           <div class="col-lg-2 col-md-3 footer-links">
             <h4>خدماتنا</h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">تصميم المواقع</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">تطوير المواقع</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">تصميم مقاعد السيارات</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">تطوير المنتجات</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">إدارة المنتجات</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">التسويق</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">التصميم الجرافيكي</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">خدمات ما بعد البيع</a></li>
             </ul>
           </div>
 
@@ -218,7 +233,7 @@ html
 
     <div class="copyright">
       <div class="container text-center">
-        <p>© <span>حقوق النشر</span> <strong class="px-1 sitename">رؤية للتسويق والاستشارات</strong> <span>جميع الحقوق محفوظة</span></p>
+        <p>© <span>حقوق النشر</span> <strong class="px-1 sitename">MTC YEMEN</strong> <span>جميع الحقوق محفوظة</span></p>
         <div class="credits">
           مصمم بواسطة <a href="https://bootstrapmade.com/">BootstrapMade</a>
         </div>
@@ -243,4 +258,7 @@ html
 
 </body>
 
-</html
+</html>
+```
+
+##
